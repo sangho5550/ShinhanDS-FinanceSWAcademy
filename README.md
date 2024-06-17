@@ -56,3 +56,4 @@
    ```sh
    git clone https://github.com/yourusername/ShinhanDS-FinanceAcademy.git
 
+Note: 본 리포지토리는 신한DS 금융 SW 아카데미의 내부 자료를 포함하고 있으며, 외부 공개용으로 제작된 것이 아닙니다.
