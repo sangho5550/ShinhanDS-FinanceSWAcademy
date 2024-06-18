@@ -1,4 +1,5 @@
 #KuberNetes 설정 파일 폴더
+https://github.com/tangt64/training_memos/tree/main/government-training/FZ
 https://miro.com/welcomeonboard/MWVBWElYczFtMEZsRmdleFlJdHA3MGNVNW1sRDcwS054RGJoUFlRTVUzZjlaRms1a0xNSTVaaU9uaEo5SlpjQ3wzNDU4NzY0NTg1NjQ5MDkwMzU0fDI=?share_link_id=716260514452
 https://learn.microsoft.com/ko-kr/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
 
